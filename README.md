@@ -1,0 +1,2 @@
+# redux
+Belajar menggunakan Redux
